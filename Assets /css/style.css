@@ -1,0 +1,50 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color:#000000;
+    color:#ffffff;
+}
+
+.IGUANAS {
+text-align: center;
+}
+
+.desc-section{
+display: contents;
+align-items: left;
+}
+
+.image{
+    width: 38%;
+    float: right;
+}
+
+.caract{
+    padding: 1%;
+    background-color:#1e1a13;
+    text-align: center; 
+}
+
+.icons-section{
+    width: unset;
+    height: 100%;
+    padding: 1;
+}
+
+#image3 img{
+    height: 200px;
+    width: 300px;
+    object-fit: cover;
+}
+
+#image3{
+    padding:10%;
+}
+
+.siguenos{
+    padding: 1%;
+    background-color:#1e1a13;
+    text-align: center;
+}
+
+
+
